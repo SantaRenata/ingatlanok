@@ -1,0 +1,40 @@
+{
+    "properties": [
+        {
+            "city": "Szolnok",
+            "address": "Fenyőfa utca 4.",
+            "size": 43,
+            "price": 2700
+        },
+        {
+            "city": "Szolnok",
+            "address": "Csendes utca. 27.",
+            "size": 49,
+            "price": 2700
+        },
+        {
+            "city": "Tószeg",
+            "address": "Attila utca 8.",
+            "size": 60,
+            "price": 2700
+        },
+        {
+            "city": "Szajol",
+            "address": "Hunyadi út 9.",
+            "size": 120,
+            "price": 3450
+        },
+        {
+            "city": "Szajol",
+            "address": "Napsugár út 7.",
+            "size": 100,
+            "price": 2950
+        },
+        {
+            "city": "Tiszatenyő",
+            "address": "Béke út 3.",
+            "size": 80,
+            "price": 2750
+        }
+    ]
+}
